@@ -1,3 +1,9 @@
+## RobotFriends
+
+Projeto de conclusão do curso The Complete Web Developer in 2019: Zero to Mastery.
+
+HTML5, CSS, JavaScript, React 16.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
